@@ -31,15 +31,15 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TeamEvamaria')
 # Messages
 default_start_msg = """
 **👋Hey<a href="tg://settings"> Bruh </a>, 
-𝙼𝚈 𝙽𝙰𝙼𝙴 <a href="https://t.me/Dqautofl_bot"> Anna Ben </a> 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙸𝙽 𝙶𝚁𝙾𝚄𝙿𝚂,**
+𝙼𝚈 𝙽𝙰𝙼𝙴 <a href="https://t.me/Jimi_Group_Bot"> Jimi Movie Bot </a> 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙸𝙽 𝙶𝚁𝙾𝚄𝙿𝚂,**
 
 𝙸𝚃'𝚂 𝚅𝙴𝚁𝚈 𝙴𝙰𝚂𝚈. 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽, 𝚃𝙷𝙰𝚃𝚂 𝙰𝙻𝙻, 𝙸'𝙻𝙻 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝚃𝙷𝙴𝚁𝙴 🤓
 
-Hey <a href="https://t.me/Dqautofl_bot?startgroup=true"> add me to your grp and make me an admin </a>
+Hey <a href="https://t.me/Jimi_Group_Bot?startgroup=true"> add me to your grp and make me an admin </a>
 
 Send me /id and give your id and group id
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ :<a href="https://t.me/pro_editor_tg"> Lallu-llalus </a>
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ :<a href="https://t.me/Jimi_Bots"> Jimi Bots </a>
 """
 START_MSG = environ.get('START_MSG', default_start_msg)
 
