@@ -19,7 +19,7 @@ Very Sempil Bot Auto Filter bot
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/ALPHA_IMDB_BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimicreator/Moviebot)
 ### Hard Way
 
 ```bash
