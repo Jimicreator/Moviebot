@@ -1,4 +1,4 @@
-#Kanged From @TroJanZheX
+#Kanged From @Jimi_Bots
 from info import AUTH_CHANNEL, AUTH_USERS, CUSTOM_FILE_CAPTION, API_KEY, AUTH_GROUPS
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from pyrogram import Client, filters
@@ -111,7 +111,7 @@ async def filter(client, message):
         if API_KEY:
             poster=await get_poster(search)
         if poster:
-            await message.reply_photo(photo=poster, caption=f"<b>Here is What I Found In My Database For Your Query {search} ‌‌‌‌‎ ­  ­  ­  ­  ­  </b>", reply_markup=InlineKeyboardMarkup(buttons))
+            await message.reply_photo(photo=poster, caption=f"<b>Here is What I Found 🧐 {search} ‌‌‌‌‎ ­  ­  ­  ­  ­  </b>", reply_markup=InlineKeyboardMarkup(buttons))
         else:
             await message.reply_text(f"<b>Here is What I Found In My Database For Your Query {search} ‌‌‌‌‎ ­  ­  ­  ­  ­  </b>", reply_markup=InlineKeyboardMarkup(buttons))
 
@@ -306,10 +306,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', 'url=https://t.me/tg_bots_updates'),
+                    InlineKeyboardButton('Update Channel', 'url=https://t.me/Jimi_Bots'),
                 ]
                 ]
-            await query.message.edit(text="<b>Creator : <a href='https://t.me/Pro_editor_tg'>Devcentre</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\n Update Channel : <a href='https://t.me/Cml_links'>Alpha Botz</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="<b>Creator : <a href='https://t.me/Jimi_Bots'>Devcentre</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\n Update Channel : <a href='https://t.me/Cml_links'>Alpha Botz</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
@@ -330,7 +330,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                     InlineKeyboardButton('🤖 More Bots 🤖', url='https://t.me/tg_bots_disccurssions'),
+                     InlineKeyboardButton('🤖 More Bots 🤖', url='https://t.me/Jimi_Bots'),
                     ]
                     ]
                 
@@ -361,7 +361,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                     InlineKeyboardButton('🤖 More Bots 🤖', url='https://t.me/tg_bots_disccurssions'),
+                     InlineKeyboardButton('🤖 More Bots 🤖', url='https://t.me/Jimi_Bots'),
                     ]
                     ]
                 
