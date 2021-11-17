@@ -50,10 +50,9 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**👋Hey{msg.from_user.mention} My Name Is Jimi Movie Bot , 𝙸 𝙲𝙰𝙽 𝙵𝙸𝙻𝚃𝙴𝚁 𝙰𝙻𝙻 𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙸𝚃 𝙴𝙰𝚂𝚈 ,
-𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙰𝚂 𝙰𝙳𝙼𝙸𝙽 😍",
+            "value": "**👋Hlo My Name Is Jimi Movie Bot , U Can Call Me as an Auto filter Bot with advanced features , 😍",
             "required": false
-        },
+     
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "False",
