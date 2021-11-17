@@ -1,5 +1,5 @@
 {
-    "name": "ALPHA_IMDB_BOT",
+    "name": "Moviebot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "logo": "https://telegra.ph/file/65f9edd6a86fc42de655a.jpg",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Lallu-lallus/ALPHA_IMDB_BOT",
-    "repository": "https://github.com/Lallu-lallus/ALPHA_IMDB_BOT",
+    "website": "https://github.com/Jimicreator",
+    "repository": "https://github.com/Jimicreator/Moviebot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -50,7 +50,7 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**👋Hey{msg.from_user.mention} 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 ANNA BEN , 𝙸 𝙲𝙰𝙽 𝙵𝙸𝙻𝚃𝙴𝚁 𝙰𝙻𝙻 𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙸𝚃 𝙴𝙰𝚂𝚈 ,
+            "value": "**👋Hey{msg.from_user.mention} 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 Jimi Movie Bot , 𝙸 𝙲𝙰𝙽 𝙵𝙸𝙻𝚃𝙴𝚁 𝙰𝙻𝙻 𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙸𝚃 𝙴𝙰𝚂𝚈 ,
 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙰𝚂 𝙰𝙳𝙼𝙸𝙽 😍",
             "required": false
         },
